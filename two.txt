@@ -1,0 +1,11 @@
+Hi [NAME],
+
+We are working on a new course [ENTER COURSE TITLE HERE].
+
+We have put together a course outline [ADD COURSE OUTLINE LINK].
+
+Can you add comments and suggestions by [DATE].
+
+Thanks!
+
+
